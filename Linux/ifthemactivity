@@ -1,0 +1,7 @@
+#!/bin/bash
+if [ -d ~/research ]
+then
+mkdir research
+else
+echo "asdfadsfasdfasdf" 
+fi
